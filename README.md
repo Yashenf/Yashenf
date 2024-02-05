@@ -8,7 +8,7 @@ As an IT student , I am dedicated to mastering the art of software development. 
 
 * 🌍  I'm based in Colombo in Sri Lanka
 * ✉️  You can contact me at [yashensavindu@gmail.com](mailto:yashensavindu@gmail.com)
-* 📞  Say Hello  +94711974973 (WhatsApp)
+* 📞  Say Hello (WhatsApp)     +94711974973
 * 🧠  I'm learning DSA , JS , Spring boot , Mern and Mean , Mobile App Development , Devops
 * ⚡  Quality is not an act, it is a habit - Aristotle
 
