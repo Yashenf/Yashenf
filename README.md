@@ -102,5 +102,5 @@
 
 ---
 
-✨ _keep lear , keep code , keep test and again! 😊._
+✨ _keep learn🧑‍🎓 , keep code🧑‍💻 , keep test and again!😊._
 
